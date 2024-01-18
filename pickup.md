@@ -4,4 +4,4 @@ Curiosity gets the better of you, and you discreetly pick up the phone. It turns
 
 Congratulations! You've been selected for an interview for the job you applied for.
 
-link -> [Restart the adventure](intro.md)
+[Restart the adventure](intro.md)
