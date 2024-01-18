@@ -1,5 +1,7 @@
 # After the Interview
 
-The interview went well, and you're feeling positive about the job. Now, you have two options:
+The interview went well, and you're feeling positive about the job. 
 
-[Send a thank-you email](detail.md)
+[detail message](detail.md)
+
+[Back to home](intro.md)
