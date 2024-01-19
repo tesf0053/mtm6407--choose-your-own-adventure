@@ -2,6 +2,6 @@
 
 The interview went well, and you're feeling positive about the job. 
 
-[detail message](detail.md)
+[Next Step](next.md)
 
 [Back to home](intro.md)
